@@ -1,0 +1,69 @@
+Begin Object Class=/Script/Engine.Blueprint Name="BI_Grab"
+   Begin Object Class=/Script/Engine.EdGraph Name="NewFunction_0"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_FunctionEntry Name="K2Node_FunctionEntry_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.EdGraph Name="Grab"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_FunctionEntry Name="K2Node_FunctionEntry_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.EdGraph Name="Release"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_FunctionEntry Name="K2Node_FunctionEntry_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="NewFunction_0"
+      Begin Object Name="K2Node_FunctionEntry_0"
+         ExtraFlags=201457664
+         FunctionReference=(MemberName="NewFunction_0")
+         bIsEditable=True
+         NodeGuid=8E046F114D3D5AAE8B21D5AD9F582E99
+         CustomProperties Pin (PinId=8CA8C7B7481BB7ADD77CA2859C9AD9B6,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema=Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      Nodes(0)=K2Node_FunctionEntry'"K2Node_FunctionEntry_0"'
+      GraphGuid=7F25D3E54D4454B3A88370B441675C48
+   End Object
+   Begin Object Name="Grab"
+      Begin Object Name="K2Node_FunctionEntry_0"
+         ExtraFlags=201457664
+         FunctionReference=(MemberName="Grab")
+         bIsEditable=True
+         NodeGuid=3F78CB254213C5E3C62FFBB7A00FB44C
+         CustomProperties Pin (PinId=916C71D14B816414730C35B5DEED9CA8,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=5BCF12E44FBC040BD92C4E8DB05B547C,PinName="MotionController",Direction="EGPD_Output",PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=Class'"/Script/HeadMountedDisplay.MotionControllerComponent"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties UserDefinedPin (PinName="MotionController",PinType=(PinCategory="object",PinSubCategoryObject=Class'"/Script/HeadMountedDisplay.MotionControllerComponent"'),DesiredPinDirection=EGPD_Output)
+      End Object
+      Schema=Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      Nodes(0)=K2Node_FunctionEntry'"K2Node_FunctionEntry_0"'
+      GraphGuid=DFF65D1544461C1579165E96661CFE88
+   End Object
+   Begin Object Name="Release"
+      Begin Object Name="K2Node_FunctionEntry_0"
+         ExtraFlags=201457664
+         FunctionReference=(MemberName="Release")
+         bIsEditable=True
+         NodeGuid=065A0EBB43BC089C189E9C880F8C8594
+         CustomProperties Pin (PinId=6C2801B54E9E11F03A0846B835CD667F,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=7946E53A43A8D57C6CD32D8FF05CC6F8,PinName="MotionController",Direction="EGPD_Output",PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=Class'"/Script/HeadMountedDisplay.MotionControllerComponent"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties UserDefinedPin (PinName="MotionController",PinType=(PinCategory="object",PinSubCategoryObject=Class'"/Script/HeadMountedDisplay.MotionControllerComponent"'),DesiredPinDirection=EGPD_Output)
+      End Object
+      Schema=Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      Nodes(0)=K2Node_FunctionEntry'"K2Node_FunctionEntry_0"'
+      GraphGuid=C35D0D44477C2A8D3C91B69E8DB0EA4B
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   ParentClass=Class'"/Script/CoreUObject.Interface"'
+   BlueprintType=BPTYPE_Interface
+   BlueprintSystemVersion=2
+   FunctionGraphs(0)=EdGraph'"NewFunction_0"'
+   FunctionGraphs(1)=EdGraph'"Grab"'
+   FunctionGraphs(2)=EdGraph'"Release"'
+   CategorySorting(0)=""
+   ThumbnailInfo=SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+   GeneratedClass=BlueprintGeneratedClass'"BI_Grab_C"'
+   bLegacyNeedToPurgeSkelRefs=False
+   BlueprintGuid=319781C547F9DD31443B8C99C54DEBD4
+End Object
