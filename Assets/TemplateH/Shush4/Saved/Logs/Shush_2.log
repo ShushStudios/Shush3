@@ -786,3 +786,76 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.14-15.37.36:630][946]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/haydon/house/hallways/BrokenPlate_polySurface3.BrokenPlate_polySurface3 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_42
 [2022.12.14-15.37.36:839][947]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
 [2022.12.14-15.37.48:541][614]LogDerivedDataCache: C:/Users/s20103559/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.334 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.14-15.41.27:333][363]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.12.14-15.41.33:166][749]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.12.14-15.42.02:443][672]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.12.14-15.43.49:248][722]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.12.14-15.43.59:351][390]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.12.14-15.44.25:280][ 80]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.12.14-15.44.38:099][952]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.12.14-15.44.52:753][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:755][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_49.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:756][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_135.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:757][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_136.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:758][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_138.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:759][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_139.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:761][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_127.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:762][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_132.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:764][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_144.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:765][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_145.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:766][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:766][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_49.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:767][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_135.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:767][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_136.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:767][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_138.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:767][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_139.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:767][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_127.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:767][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_132.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:767][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_144.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:767][874]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_145.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.44.52:797][876]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.12.14-15.45.01:056][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:057][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_49.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:059][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_135.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:060][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_136.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:061][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_138.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:063][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_139.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:063][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_127.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:065][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_132.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:066][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_144.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:067][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_145.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:067][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:068][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_49.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:068][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_135.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:068][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_136.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:068][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_138.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:069][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_139.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:069][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_127.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:069][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_132.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:069][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_144.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:069][422]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_145.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.12.14-15.45.01:113][424]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.12.14-15.45.43:089][187]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.12.14-15.45.51:222][738]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.12.14-15.47.12:561][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.12.14-15.47.12:577][ 49]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.007351 seconds
+[2022.12.14-15.47.12:683][ 49]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1
+[2022.12.14-15.47.12:685][ 49]LogSavePackage: Moving 'V:/Github/Shush3/Assets/TemplateH/Shush4/Saved/VRTemplateMap_Auto1D70DC20F43C6865C306A40BCDEAA83B6.tmp' to 'V:/Github/Shush3/Assets/TemplateH/Shush4/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2022.12.14-15.47.12:692][ 49]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.145
+[2022.12.14-15.47.12:692][ 49]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.145
+[2022.12.14-15.47.12:692][ 49]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/haydon/house/hallways/BrokenPlate_polySurface2] ([1] browsable assets)...
+[2022.12.14-15.47.12:702][ 49]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/haydon/house/hallways/BrokenPlate_polySurface2.BrokenPlate_polySurface2]
+[2022.12.14-15.47.12:702][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/haydon/house/hallways/BrokenPlate_polySurface2]
+[2022.12.14-15.47.12:708][ 49]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/haydon/house/hallways/BrokenPlate_polySurface2_Auto1
+[2022.12.14-15.47.12:708][ 49]LogSavePackage: Moving 'V:/Github/Shush3/Assets/TemplateH/Shush4/Saved/BrokenPlate_polySurface2_Auto1B18078C94809CC7ED90F0D84DA975B3C.tmp' to 'V:/Github/Shush3/Assets/TemplateH/Shush4/Saved/Autosaves/Game/assets/haydon/house/hallways/BrokenPlate_polySurface2_Auto1.uasset'
+[2022.12.14-15.47.12:708][ 49]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/haydon/house/hallways/BrokenPlate_polySurface3] ([1] browsable assets)...
+[2022.12.14-15.47.12:715][ 49]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/haydon/house/hallways/BrokenPlate_polySurface3.BrokenPlate_polySurface3]
+[2022.12.14-15.47.12:715][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/haydon/house/hallways/BrokenPlate_polySurface3]
+[2022.12.14-15.47.12:718][ 49]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/haydon/house/hallways/BrokenPlate_polySurface3_Auto1
+[2022.12.14-15.47.12:718][ 49]LogSavePackage: Moving 'V:/Github/Shush3/Assets/TemplateH/Shush4/Saved/BrokenPlate_polySurface3_Auto13C561CBA4BD0EA2BB76ABBA0A82AC374.tmp' to 'V:/Github/Shush3/Assets/TemplateH/Shush4/Saved/Autosaves/Game/assets/haydon/house/hallways/BrokenPlate_polySurface3_Auto1.uasset'
+[2022.12.14-15.47.12:719][ 49]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/haydon/house/hallways/BrokenPlate_polySurface4] ([1] browsable assets)...
+[2022.12.14-15.47.12:726][ 49]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/haydon/house/hallways/BrokenPlate_polySurface4.BrokenPlate_polySurface4]
+[2022.12.14-15.47.12:726][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/haydon/house/hallways/BrokenPlate_polySurface4]
+[2022.12.14-15.47.12:728][ 49]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/haydon/house/hallways/BrokenPlate_polySurface4_Auto1
+[2022.12.14-15.47.12:728][ 49]LogSavePackage: Moving 'V:/Github/Shush3/Assets/TemplateH/Shush4/Saved/BrokenPlate_polySurface4_Auto1F578DF814FEF221C08BC6D928E0FA06F.tmp' to 'V:/Github/Shush3/Assets/TemplateH/Shush4/Saved/Autosaves/Game/assets/haydon/house/hallways/BrokenPlate_polySurface4_Auto1.uasset'
+[2022.12.14-15.47.12:729][ 49]LogFileHelpers: Auto-saving content packages took 0.036
